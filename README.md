@@ -1,7 +1,7 @@
 # SpectroscopyData
 Experiments for Spectroscopy Data Classification
 
-Four datasets are cotained:
+Four datasets are contained:
 
 "FTIR_Spectra_instant_coffee.csv":
 contains a collection of 56 mid infrared diffuse reflectance (MIR-DRIFT) spectra of lyophilized coffee produced from two species: arabica (29 samples) and canephora var. robusta (27 samples).
