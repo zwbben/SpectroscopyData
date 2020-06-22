@@ -1,5 +1,5 @@
 # SpectroscopyData
- Datasets for Spectroscopy Data Classification 
+ Datasets for Spectroscopy Data Classification Experiment
 
 "FTIR_Spectra_instant_coffee.csv":
 contains a collection of 56 mid infrared diffuse reflectance (MIR-DRIFT) spectra of lyophilized coffee produced from two species: arabica (29 samples) and canephora var. robusta (27 samples).
@@ -17,3 +17,6 @@ contains a collection of 120 Mid-infrared spectra collected from 60 different au
 The data are described in full in the journal paper "FTIR spectroscopy and multivariate analysis can distinguish the geographic origin of extra virgin olive oils" (Tapp H.S. et al, J. Agric. Food Chem. 51 (21) 6110-5 (2003)).
 
 These data are free to analyse and redistribute for academic purpose; if you do so, please acknowledge the original sources (webpage and/or citation above).
+
+The authors would appreciate you if you can cite the following article,
+Zheng, W.B., et al., Spectra data classification with kernel extreme learning machine. Chemometrics and Intelligent Laboratory Systems, 2019. 192(1-6).
