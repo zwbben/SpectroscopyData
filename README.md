@@ -19,4 +19,5 @@ The data are described in full in the journal paper "FTIR spectroscopy and multi
 These data are free to analyse and redistribute for academic purpose; if you do so, please acknowledge the original sources (webpage and/or citation above).
 
 The authors would appreciate you if you can cite the following article,
+
 Zheng, W.B., et al., Spectra data classification with kernel extreme learning machine. Chemometrics and Intelligent Laboratory Systems, 2019. 192(1-6).
